@@ -4,7 +4,7 @@ A sleek, modern one‑page personal website built with pure HTML/CSS to showcase
 
 ---
 
-## 🚀 Features
+## Features
 - **Dark aesthetic** with accent color toggle (blue → violet → teal)
 - **Responsive design** for mobile, tablet, and desktop
 - **Hero section** with name, tagline, and contact links
@@ -17,7 +17,7 @@ A sleek, modern one‑page personal website built with pure HTML/CSS to showcase
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 ### Edit content
 - Open `index.html` in a text editor (VS Code, Sublime, etc.)
 - Replace text in each section with your latest info
@@ -31,7 +31,7 @@ A sleek, modern one‑page personal website built with pure HTML/CSS to showcase
 
 ---
 
-## 🌐 Deployment
+## Deployment
 ### Option A — GitHub Pages (free, fast)
 1. Create a GitHub repo named `samanthaguliyev.github.io`
 2. Upload `index.html`
@@ -44,15 +44,15 @@ A sleek, modern one‑page personal website built with pure HTML/CSS to showcase
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
-📦 samantha-guliyev-portfolio
+ samantha-guliyev-portfolio
  └── index.html    # Main one-page website
 ```
 
 ---
 
-## ✨ Roadmap / Ideas
+## Roadmap / Ideas
 - Add **image gallery** for projects
 - Integrate a **contact form** (Formspree / Netlify Forms)
 - Add **multi-page structure** if blog posts or case studies are needed

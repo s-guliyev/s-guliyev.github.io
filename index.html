@@ -245,7 +245,7 @@
       ['#34D399', 'rgba(52,211,153,0.25)']   // teal
     ];
     let idx = 0;
-    document.querySelector('.toggle').addEventListener('click', ()=>{
+    document.querySelector('#themeBtn').addEventListener('click', ()=>{
       idx = (idx + 1) % accents.length;
       document.documentElement.style.setProperty('--accent', accents[idx][0]);
       document.documentElement.style.setProperty('--ring', accents[idx][1]);

@@ -47,5 +47,5 @@ A sleek, modern one‑page personal website built with pure HTML/CSS to showcase
 
 ---
 
-## 📄 License
+## License
 This project is free to use and modify. Attribution appreciated but not required.

@@ -29,18 +29,6 @@ A sleek, modern one‑page personal website built with pure HTML/CSS to showcase
 - **Fonts**: Replace the Google Fonts import with your choice
 - **Layout**: Adjust `.grid` and `.card` classes for more/less columns
 
----
-
-## Deployment
-### Option A — GitHub Pages (free, fast)
-1. Create a GitHub repo named `samanthaguliyev.github.io`
-2. Upload `index.html`
-3. Go to `https://samanthaguliyev.github.io` (site will be live in ~1 min)
-
-### Option B — Custom Domain (optional)
-1. Buy a domain (e.g. `samanthaguliyev.com`)
-2. Point DNS records to GitHub Pages (see GitHub docs)
-3. Add domain in repo settings → Pages → Custom Domain
 
 ---
 
